@@ -7,3 +7,13 @@
 
 - Sivtheng Chang
 - Sophavong Heng
+
+## Dataset
+
+- [text](https://data.mef.gov.kh/datasets/pd_679b41de66a3530001dbeb04)
+
+## Requirements
+
+- ```python -m venv venv```
+- ```source venv/bin/activate```
+- ```pip install requirements.txt```
