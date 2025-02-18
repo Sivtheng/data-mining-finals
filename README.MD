@@ -8,10 +8,6 @@
 - Sivtheng Chang
 - Sophavong Heng
 
-## Dataset
-
-- N/A
-
 ## Requirements
 
 - ```python -m venv venv```
