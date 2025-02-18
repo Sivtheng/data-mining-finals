@@ -1,0 +1,27 @@
+Holiday/Festival,Month,Day,Type,Season,Processed_Month,Processed_Day,Holiday_Type,Season_Flag
+Songkran Festival (Thai New Year),April,13-15,Thai Festival,High Season (Tourist Peak),April,13,Thai Festival,High Season
+Makha Bucha,February/March,Full Moon,Thai Buddhist Holiday,Shoulder Season,February,Full Moon,Other,Shoulder Season
+Visakha Bucha,May/June,Full Moon,Thai Buddhist Holiday,Shoulder Season,May,Full Moon,Other,Shoulder Season
+Asahna Bucha,July/August,Full Moon,Thai Buddhist Holiday,Shoulder Season,July,Full Moon,Other,Shoulder Season
+New Year's Day,January,1,Thai National Holiday,High Season (Tourist Peak),January,1,Thai National,High Season
+Chakri Memorial Day,April,6,Thai National Holiday,Shoulder Season,April,6,Thai National,Shoulder Season
+Labor Day,May,1,Thai National Holiday,Shoulder Season,May,1,Thai National,Shoulder Season
+H.M. King's Birthday,July,28,Thai National Holiday,Shoulder Season,July,28,Thai National,Shoulder Season
+H.M. Queen Mother's Birthday,August,12,Thai National Holiday,Shoulder Season,August,12,Thai National,Shoulder Season
+H.M. King Bhumibol Memorial Day,October,13,Thai National Holiday,Shoulder Season,October,13,Thai National,Shoulder Season
+Chulalongkorn Day,October,23,Thai National Holiday,Shoulder Season,October,23,Thai National,Shoulder Season
+H.M. King Bhumibol's Birthday/National Day/Father's Day,December,5,Thai National Holiday,High Season (Tourist Peak),December,5,Thai National,High Season
+Constitution Day,December,10,Thai National Holiday,High Season (Tourist Peak),December,10,Thai National,High Season
+Loy Krathong,November,Full Moon,Thai Festival,Low Season (except during the festival),November,Full Moon,Thai Festival,Low Season
+Chinese New Year,January/February,Varies,Major Thai Festival,High Season (Tourist Peak),January,,Thai Festival,High Season
+Christmas,December,25,International Holiday,High Season (Tourist Peak),December,25,International,High Season
+New Year's Eve/Day,December/January,31-1,International Holiday,High Season (Tourist Peak),December,31,International,High Season
+Golden Week (China),October,First Week,International Holiday,Major International Peak,October,First Week,International,High Season
+Chinese New Year (International),January/February,Varies,International Holiday,Major International Peak,January,,International,High Season
+Easter Holiday,March/April,Varies,International Holiday,Major International Peak,March,,International,High Season
+School Holidays in Asia,Varies by country,Varies,Regional Holiday,Regional Peak Season,Varies by country,,Regional,High Season
+European Summer Vacation,July - August,Varies,Regional Holiday,Regional Peak Season,July - August,,Regional,High Season
+Australian Winter Holidays,June - July,Varies,Regional Holiday,Regional Peak Season,June - July,,Regional,High Season
+High Season,November - March,Varies,General Peak Season,"High Season (cool, dry weather)",November - March,,Other,High Season
+Shoulder Season,July - October,Varies,General Season,Shoulder Season (varies by region),July - October,,Other,Shoulder Season
+Low Season,April - June,Varies,General Low Season,"Low Season (hot, except for Songkran)",April - June,,Other,Low Season
